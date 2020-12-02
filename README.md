@@ -30,7 +30,7 @@
 <!-- REDES SOCIAIS -->
 <p align="center">
     <a href="https://twitter.com/DiegoSi06829718" target="blank"><img align="center" src=".github/twitter.svg" alt="NyctibiusVII/Twitter" height="20" width="20" /></a>
-    <a href="https://www.linkedin.com/in/diego-caetano-487b171a5/" target="blank"><img align="center" src=".github/linkedin.svg" alt="NyctibiusVII/Linkedin" height="20" width="20" /></a>
+    <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/" target="blank"><img align="center" src=".github/linkedin.svg" alt="NyctibiusVII/Linkedin" height="20" width="20" /></a>
     <a href="https://www.instagram.com/DcDevs/" target="blank"><img align="center" src=".github/instagram.svg" alt="NyctibiusVII/Instagram" height="20" width="20" /></a>
     <a href="https://discord.gg/!D❦C•Devs" target="blank"><img align="center" src=".github/discord.svg" alt="NyctibiusVII/Discord" height="20" width="20" /></a>
 </p>
