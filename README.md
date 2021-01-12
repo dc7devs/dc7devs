@@ -1,8 +1,14 @@
 <!-- APRESENTAÇÃO -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
+
+<img align="center" src="https://64.media.tumblr.com/af9e3db9edc095f6f941473def765b13/tumblr_mskb8whr2a1rpqxf1o1_400.gifv" alt="tamplateImg" width="1000" />
+
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
 <!-- SOBRE MIM -->
+
+---
+
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
@@ -14,18 +20,16 @@
 
 <!-- TECNOLOGIAS -->
 <p align="left"><br>&nbsp;
-    <img src=".github/tecSvg/html5.svg" alt="html5" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/css3.svg" alt="css3" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/javascript.svg" alt="javascript" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/node.svg" alt="node" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/android.svg" alt="android" height="16" width="16"/>&nbsp;
-    <img src=".github/tecSvg/handlebars.svg" alt="handlebars" height="16" width="16"/>&nbsp;
-    <img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="devicon" height="16" width="16"/>&nbsp;
+    <img src=".github/tecSvg/html5.svg" alt="html5" width="20"/>&nbsp;
+    <img src=".github/tecSvg/css3.svg" alt="css3" width="20"/>&nbsp;
+    <img src=".github/tecSvg/javascript.svg" alt="javascript"width="20"/>&nbsp;
+    <img src=".github/tecSvg/node.svg" alt="node" width="20"/>&nbsp;
+    <img src=".github/tecSvg/android.svg" alt="android" width="20"/>&nbsp;
+    <img src=".github/tecSvg/handlebars.svg" alt="handlebars" width="20"/>&nbsp;
+    <img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="devicon" width="20"/>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
-
----
 
 <!-- REDES SOCIAIS -->
 <p align="center">
@@ -37,15 +41,5 @@
 
 <!--
 **NyctibiusVII/NyctibiusVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
