@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS**
 
-- ✉ How to reach me **diegocaetano444@gmail.com**
+- ✉ How to reach me **diegocaetano444@outlook.com**
 
 - ⚡ Curiosity I'm a fan of animations, anime and games
 
