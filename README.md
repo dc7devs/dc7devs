@@ -1,7 +1,7 @@
 <!-- APRESENTAÇÃO -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
 
-<img align="center" src="https://64.media.tumblr.com/af9e3db9edc095f6f941473def765b13/tumblr_mskb8whr2a1rpqxf1o1_400.gifv" alt="tamplateImg" width="1000" />
+<img align="center" src="./image/3d2.gif" alt="tamplateImg" height="900" width="900" />
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
