@@ -1,8 +1,8 @@
 <!-- APRESENTAÇÃO -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
 
-<p align="center" heigtt="700" width="1000">
-    <img src="./image/figureman.gif" width="1000" alt="tamplateImg"/>
+<p align="center" heigtt="700">
+    <img src="https://media3.giphy.com/media/26tOVxw5cTv22Z2rS/giphy.gif?cid=ecf05e47c0athf1jxjngtmzs54o6zbp6ffcklyn39e17emmh&rid=giphy.gif&ct=g" width="800" alt="tamplateImg"/>
 </p>
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
