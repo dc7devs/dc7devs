@@ -21,7 +21,7 @@
 - ⚡ Curiosity I'm a fan of animations, anime and games
 
 <!-- TECNOLOGIAS -->
-<p align="left"><br>&nbsp;
+<p align="center"><br>&nbsp;
     <img src=".github/tecSvg/html5.svg" alt="html5" width="20"/>&nbsp;
     <img src=".github/tecSvg/css3.svg" alt="css3" width="20"/>&nbsp;
     <img src=".github/tecSvg/javascript.svg" alt="javascript"width="20"/>&nbsp;
