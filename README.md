@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
 
 <p align="center" width="auto">
-    <img src="image/giphy2.gif" width="500" alt="tamplateImg"/>
+    <img src="image/ezgif.com-gif-maker.gif" width="500" alt="tamplateImg"/>
 </p>
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
