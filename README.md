@@ -25,7 +25,10 @@
     <img src=".github/tecSvg/html5.svg" alt="html5" width="20"/>&nbsp;
     <img src=".github/tecSvg/css3.svg" alt="css3" width="20"/>&nbsp;
     <img src=".github/tecSvg/javascript.svg" alt="javascript"width="20"/>&nbsp;
+    <img src=".github/tecSvg/Reactjs.svg.png" alt="Reactjs" width="20"/>&nbsp;
+    <img src=".github/tecSvg/nextjs.jpeg" alt="Nextjs" width="20"/>&nbsp;
     <img src=".github/tecSvg/node.svg" alt="node" width="20"/>&nbsp;
+    <img src=".github/tecSvg/110px-Python-logo-notext.svg.png" alt="python" width="20"/>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
