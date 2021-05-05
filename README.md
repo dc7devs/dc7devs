@@ -21,7 +21,7 @@
     <img align="center" src=".github/tecSvg/node.svg" alt="node" width="25"/>&nbsp;
     <img align="center" src=".github/tecSvg/npm-2.svg" alt="npm" width="25"/>&nbsp;
     <img align="center" src=".github/tecSvg/yarn.png" alt="yarn" width="25"/>&nbsp;
-    <img align="center" src=".github/tecSvg/Python.png" alt="python" width="25"/>&nbsp;
+    <img align="center" src=".github/tecSvg/Python.png" alt="python" width="25"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
