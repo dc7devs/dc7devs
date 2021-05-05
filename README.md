@@ -22,13 +22,16 @@
 
 <!-- TECNOLOGIAS -->
 <p align="center"><br>&nbsp;
-    <img src=".github/tecSvg/html5.svg" alt="html5" width="20"/>&nbsp;
-    <img src=".github/tecSvg/css3.svg" alt="css3" width="20"/>&nbsp;
-    <img src=".github/tecSvg/javascript.svg" alt="javascript"width="20"/>&nbsp;
-    <img src=".github/tecSvg/Reactjs.svg.png" alt="Reactjs" width="20"/>&nbsp;
-    <img src=".github/tecSvg/nextjs.jpeg" alt="Nextjs" width="20"/>&nbsp;
-    <img src=".github/tecSvg/node.svg" alt="node" width="20"/>&nbsp;
-    <img src=".github/tecSvg/110px-Python-logo-notext.svg.png" alt="python" width="20"/>&nbsp;
+    <img src=".github/tecSvg/html5.svg" alt="html5" width="25"/>&nbsp;
+    <img src=".github/tecSvg/css3.svg" alt="css3" width="25"/>&nbsp;
+    <img src=".github/tecSvg/javascript.svg" alt="javascript"width="25"/>&nbsp;
+    <img src=".github/tecSvg/Reactjs.svg" alt="Reactjs" width="25"/>&nbsp;
+    <img src=".github/tecSvg/typescript.png" alt="typescript" width="25"/>&nbsp;
+    <img src=".github/tecSvg/next-js.svg" alt="Nextjs" width="25"/>&nbsp;
+    <img src=".github/tecSvg/node.svg" alt="node" width="25"/>&nbsp;
+    <img src=".github/tecSvg/npm-2.svg" alt="npm" width="25"/>&nbsp;
+    <img src=".github/tecSvg/yarn.png" alt="yarn" width="25"/>&nbsp;
+    <img src=".github/tecSvg/Python.png" alt="python" width="25"/>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
