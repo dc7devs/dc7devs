@@ -14,7 +14,7 @@
 
 - 👨🏻‍💻 I’m looking to collaborate on web projects
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - ✉ How to reach me **diegocaetano444@outlook.com**
 
