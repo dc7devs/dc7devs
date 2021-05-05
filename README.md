@@ -1,11 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
 
-<img src="image/gg.gif" min-width="330" max-width="399" width="399" align="right" alt="tamplateImg"/>
+<img src="image/gg.gif" width="500" align="right" alt="tamplateImg"/>
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
 <!-- SOBRE MIM -->
-
 <p align="left"><li>👨🏻‍💻 I’m looking to collaborate on web /home/devss/Imagens/Diego-DevsS/image/gg.gif</li></p>
 <p align="left"><li>💬 Ask me about <strong>HTML, CSS, JavaScript</strong></li></p>
 <p align="left"><li>✉ How to reach me <strong>diegocaetano444@outlook.com</strong></li></p>
@@ -27,6 +26,8 @@
 </p>
 <br>
 
+---
+
 <!-- REDES SOCIAIS -->
 <p align="center">
     <a href="https://twitter.com/DiegoSi06829718" target="blank"><img align="center" src=".github/twitter.svg" alt="NyctibiusVII/Twitter" height="20" width="20" /></a>
@@ -34,4 +35,3 @@
     <a href="https://www.instagram.com/DcDevs/" target="blank"><img align="center" src=".github/instagram.svg" alt="NyctibiusVII/Instagram" height="20" width="20" /></a>
     <a href="https://discord.gg/!D❦C•Devs" target="blank"><img align="center" src=".github/discord.svg" alt="NyctibiusVII/Discord" height="20" width="20" /></a>
 </p>
-
