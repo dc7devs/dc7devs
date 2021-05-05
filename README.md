@@ -26,9 +26,6 @@
     <img src=".github/tecSvg/css3.svg" alt="css3" width="20"/>&nbsp;
     <img src=".github/tecSvg/javascript.svg" alt="javascript"width="20"/>&nbsp;
     <img src=".github/tecSvg/node.svg" alt="node" width="20"/>&nbsp;
-    <img src=".github/tecSvg/android.svg" alt="android" width="20"/>&nbsp;
-    <img src=".github/tecSvg/handlebars.svg" alt="handlebars" width="20"/>&nbsp;
-    <img src="https://icongr.am/devicon/devicon-plain.svg?size=16&color=currentColor" alt="devicon" width="20"/>&nbsp;
     <!-- https://devicon.dev/ -->
 </p>
 <br>
