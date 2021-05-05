@@ -12,7 +12,7 @@
 <p align="left"><li>⚡ Curiosity I'm a fan of animations, anime and games</li></p>
 
 <!-- TECNOLOGIAS -->
-<p align="center"><br>&nbsp;
+<p align="left"><br>&nbsp;
     <img src=".github/tecSvg/html5.svg" alt="html5" width="25"/>&nbsp;
     <img src=".github/tecSvg/css3.svg" alt="css3" width="25"/>&nbsp;
     <img src=".github/tecSvg/javascript.svg" alt="javascript"width="25"/>&nbsp;
@@ -26,8 +26,6 @@
     <!-- https://devicon.dev/ -->
 </p>
 <br>
-
----
 
 <!-- REDES SOCIAIS -->
 <p align="center">
