@@ -1,24 +1,18 @@
-<!-- APRESENTAÇÃO -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h1>
 
-<p align="center" width="auto">
-    <img src="image/ezgif.com-gif-maker.gif" alt="tamplateImg"/>
-</p>
+<img src="image/ezgif.com-gif-maker.gif" min-width="300px" max-width="370px" width="370px" align="right" alt="tamplateImg"/>
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
 <!-- SOBRE MIM -->
 
----
+<li align="left">👨🏻‍💻 I’m looking to collaborate on web projects</li>
 
+<li align="left">💬 Ask me about **HTML, CSS, JavaScript**</li>
 
-- 👨🏻‍💻 I’m looking to collaborate on web projects
+<li align="left">✉ How to reach me **diegocaetano444@outlook.com**</li>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
-- ✉ How to reach me **diegocaetano444@outlook.com**
-
-- ⚡ Curiosity I'm a fan of animations, anime and games
+<li align="left">⚡ Curiosity I'm a fan of animations, anime and games</li>
 
 <!-- TECNOLOGIAS -->
 <p align="center"><br>&nbsp;
@@ -43,8 +37,4 @@
     <a href="https://www.instagram.com/DcDevs/" target="blank"><img align="center" src=".github/instagram.svg" alt="NyctibiusVII/Instagram" height="20" width="20" /></a>
     <a href="https://discord.gg/!D❦C•Devs" target="blank"><img align="center" src=".github/discord.svg" alt="NyctibiusVII/Discord" height="20" width="20" /></a>
 </p>
-
-<!--
-**NyctibiusVII/NyctibiusVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
