@@ -4,11 +4,15 @@
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
+<p aling="left">Gosto muito de e tecnologia e programação, estou focado em javascript/typescript com Reactjs e Nextjs, para atuar como frontend, NodeJs e mais algums framworks e Library da stack js, para atuar como backend, pretendo me tornar um fullstack, atualmente estou estudando javascript e React, também tenho interesse em Python</p>
+
+<br>
+
 <!-- SOBRE MIM -->
-<p align="left"><li>👨🏻‍💻 I’m looking to collaborate on web /home/devss/Imagens/Diego-DevsS/image/gg.gif</li></p>
-<p align="left"><li>💬 Ask me about <strong>HTML, CSS, JavaScript</strong></li></p>
-<p align="left"><li>✉ How to reach me <strong>diegocaetano444@outlook.com</strong></li></p>
-<p align="left"><li>⚡ Curiosity I'm a fan of animations, anime and games</li></p>
+<li align="left">👨🏻‍💻 I'm looking to collaborate on web projects</li>
+<li align="left">💬 Ask me about <strong>HTML, CSS, JavaScript</strong></li>
+<li align="left">✉ How to reach me <strong>diegocaetano444@outlook.com</strong></li>
+<li align="left">⚡ Curiosity I'm a fan of animations, anime and games</li>
 
 <!-- TECNOLOGIAS -->
 <p align="right"><br>&nbsp;
