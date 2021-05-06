@@ -2,11 +2,9 @@
 
 <img src="image/gg.gif" width="412" align="right" alt="tamplateImg"/>
 
-<h3 align="left">A beginner developer focused on becoming a FullStack</h3>
+<h3 align="left" styles="color: red">A beginner developer focused on becoming a FullStack</h3>
 
-<h4 aling="left" linehight=""><strong>I really like technology and I love programming, I am currently focused on javascript/typescript with Reactjs and intending to study Nextjs<br><br>acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js<br><br>acting as a backend programmer, I intend to become a fullstack,<br>I am studying javascript and React, but I am also interested in Python.</strong></h4>
-
-<br>
+<h4 aling="left" linehight=""><strong>I really like technology and I love programming, I am currently focused on javascript/typescript with Reactjs and intending to study Nextjs<br><br>Acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js<br><br>Acting as a backend programmer, I intend to become a fullstack,<br>I am studying javascript and React, but I am also interested in Python.</strong></h4>
 
 <!-- SOBRE MIM -->
 <li align="left">👨🏻‍💻 I'm looking to collaborate on web projects</li>
@@ -14,8 +12,10 @@
 <li align="left">✉ How to reach me <strong>diegocaetano444@outlook.com</strong></li>
 <li align="left">⚡ Curiosity I'm a fan of animations, anime and games</li>
 
+<div styles="display: flex">
+
 <!-- TECNOLOGIAS -->
-<p align="right"><br>&nbsp;
+<div align="right" width="700">
     <img align="center" src=".github/tecSvg/html5.svg" alt="html5" width="25"/>&nbsp;
     <img align="center" src=".github/tecSvg/css3.svg" alt="css3" width="25"/>&nbsp;
     <img align="center" src=".github/tecSvg/javascript.svg" alt="javascript"width="25"/>&nbsp;
@@ -27,8 +27,24 @@
     <img align="center" src=".github/tecSvg/yarn.png" alt="yarn" width="25"/>&nbsp;
     <img align="center" src=".github/tecSvg/Python.png" alt="python" width="25"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- https://devicon.dev/ -->
+</div>
+
+<p align="left">
+
+```js
+
+// life motto
+if (sad() === true) {
+  sad().stop();
+
+  beAwesome();  
+}
+
+```
+
 </p>
-<br>
+
+</div>
 
 ---
 
