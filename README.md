@@ -4,7 +4,7 @@
 
 <h3 align="left">A beginner developer focused on becoming a FullStack</h3>
 
-<h4 aling="left"><strong>I really like technology and I love programming, I am currently focused on javascript / typescript with Reactjs and intending to study Nextjs, acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js, acting as a backend programmer, I intend to become a fullstack, I am studying javascript and React, but I am also interested in Python.</strong></h4>
+<h4 aling="left" linehight=""><strong>I really like technology and I love programming, I am currently focused on javascript/typescript with Reactjs and intending to study Nextjs<br><br>acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js<br><br>acting as a backend programmer, I intend to become a fullstack,<br>I am studying javascript and React, but I am also interested in Python.</strong></h4>
 
 <br>
 
