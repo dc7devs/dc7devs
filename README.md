@@ -4,7 +4,7 @@
 
 <h3 align="center">A beginner developer focused on becoming a FullStack</h3>
 
-<p aling="left">Gosto muito de e tecnologia e amo programação, atualmente estou focado em javascript/typescript com Reactjs e pretendendo estudar Nextjs, atuando como programador frontend, pretendo seguir com o NodeJs e estudar algums framworks e Library da stack js, atuando como programador backend, pretendo me tornar um fullstack, estou estudando javascript e React, porem também tenho interesse em Python</p>
+<p aling="left">I really like technology and I love programming, I am currently focused on javascript / typescript with Reactjs and intending to study Nextjs, acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js, acting as a backend programmer, I intend to become a fullstack, I am studying javascript and React, but I am also interested in Python</p>
 
 <br>
 
