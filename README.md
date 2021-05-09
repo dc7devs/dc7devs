@@ -4,13 +4,14 @@
 
 <h3 align="center" styles="color: red">A beginner developer focused on becoming a FullStack</h3>
 
-<h4 aling="left" linehight=""><strong>I really like technology and I love programming, I am currently focused on javascript/typescript with Reactjs and intending to study Nextjs<br><br>Acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js<br><br>Acting as a backend programmer, I intend to become a fullstack,<br>I am studying javascript and React, but I am also interested in Python.</strong></h4>
+<h4 aling="left" linehight=""><strong>¶ I really like technology and I love programming, I am currently focused on javascript/typescript with Reactjs and intending to study Nextjs<br><br>¶ Acting as a frontend programmer, I intend to continue with NodeJs and study some frameworks and Library on the stack js<br><br>¶ Acting as a backend programmer, I intend to become a fullstack, I am studying javascript and React, but I am also interested in Python.</strong></h4>
 
 <!-- SOBRE MIM -->
-<li align="left">👨🏻‍💻 I'm looking to collaborate on web projects</li>
-<li align="left">💬 Ask me about <strong>HTML, CSS, JavaScript</strong></li>
-<li align="left">✉ How to reach me <strong>diegocaetano444@outlook.com</strong></li>
-<li align="left">⚡ Curiosity I'm a fan of animations, anime and games</li>
+✐ 👨🏻‍💻 I'm looking to collaborate on web projects<br>
+✐ 💬 Ask me about <strong>HTML, CSS, JavaScript</strong><br>
+✐ ✉ How to reach me <strong>diegocaetano444@outlook.com</strong><br>
+✐ ⚡ Curiosity I'm a fan of animations, anime and games
+
 
 <div styles="display: flex">
 
