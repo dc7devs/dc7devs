@@ -28,17 +28,6 @@
 ✐ ✉ How to reach me <strong>diegocaetano444@outlook.com</strong><br>
 ✐ ⚡ Curiosity I'm a fan of animations, anime and games
 
-```js
-
-// life motto
-if (sad() === true) {
-  sad().stop();
-
-  beAwesome(💜);
-}
-
-```
-
 ---
 
 <!-- REDES SOCIAIS -->
