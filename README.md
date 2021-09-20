@@ -20,15 +20,6 @@
     <!-- https://devicon.dev/ -->
 </div><br>
 
-<!-- SOBRE MIM -->
-
-✐ 👨🏻‍💻 Procuro colaborar em projetos da web<br>
-✐ 💬 Próximo Próximo Pergunte-me sobre HTML, CSS, JavaScript<br>
-✐ ✉  Como entrar em contato comigo diegocaetano444@outlook.com<br>
-✐ ⚡ Curiosidade Sou fã de animações, anime e jogos
-
----
-
 <!-- REDES SOCIAIS -->
 
 <p align="center">
