@@ -2,7 +2,7 @@
 
 <img src="image/gg.gif" width="412" margin="0" align="right" alt="tamplateImg"/>
 
-<h4 align="center" styles="color: red">Um programador intermediario focado em se tornar um FullStack<br><br>¶ Atualmente estou cursando ADS(Analise e Desenvolvimento de Sistemas), no IFTM(Instituto Federal do Triangulo Minero</h4>
+<br/>
 
 <br>
 <!-- TECNOLOGIAS -->
@@ -16,9 +16,8 @@
     <img align="center" src=".github/tecSvg/node.svg" alt="node" width="25"/>
     <img align="center" src=".github/tecSvg/npm-2.svg" alt="npm" width="25"/>
     <img align="center" src=".github/tecSvg/yarn.png" alt="yarn" width="25"/>
-    <img align="center" src=".github/tecSvg/Python.png" alt="python" width="25"/>
     <!-- https://devicon.dev/ -->
-</div><br>
+</div><br><br/>
 
 <!-- REDES SOCIAIS -->
 
