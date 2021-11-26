@@ -1,4 +1,4 @@
-<h2 align="center">Oi <img src="./image/wave.gif" width="30px">, Meu nome e Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h2>
+<h2 align="center">Hi <img src="./image/wave.gif" width="30px">, I'am Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h2>
 
 <img src="image/gg.gif" width="412" margin="0" align="right" alt="tamplateImg"/>
 
