@@ -1,29 +1,42 @@
 <h2 align="center">Hi <img src="./image/wave.gif" width="30px">, I'am Diego Silva<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h2>
 
-<img src="image/gg.gif" width="412" margin="0" align="right" alt="tamplateImg"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/687863744541491294"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dcdevs/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/r1hx6sxhndssvnj4fuwszw5v5"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+</p>
 
-<br/>
+<img src="image/gg.gif" width="410" margin="0" align="right" alt="tamplateImg"/>
 
 <br>
+<br>
+<h3><strong>About Me</strong></h3>
+
+<li>[👾] - Fullstack web programmer, focused on backend</li>
+<li>[🤖] - I'm currently studying javascript and combining my basic knowledge.</li>
+<li>[👨‍🎓] - Studying systems analysis and development</li>
+<li></li>
+   
+
+
 <!-- TECNOLOGIAS -->
-<div align="center" width="700">
-    <img align="center" src=".github/tecSvg/html5.svg" alt="html5" width="25"/>
-    <img align="center" src=".github/tecSvg/css3.svg" alt="css3" width="25"/>
-    <img align="center" src=".github/tecSvg/javascript.svg" alt="javascript"width="25"/>
-    <img align="center" src=".github/tecSvg/Reactjs.svg" alt="Reactjs" width="25"/>
-    <img align="center" src=".github/tecSvg/typescript.png" alt="typescript" width="25"/>
-    <img align="center" src=".github/tecSvg/next-js.svg" alt="Nextjs" width="25"/>
-    <img align="center" src=".github/tecSvg/node.svg" alt="node" width="25"/>
-    <img align="center" src=".github/tecSvg/npm-2.svg" alt="npm" width="25"/>
-    <img align="center" src=".github/tecSvg/yarn.png" alt="yarn" width="25"/>
-    <!-- https://devicon.dev/ -->
-</div><br><br/>
 
-<!-- REDES SOCIAIS -->
-
-<p align="center">
-    <a href="https://twitter.com/DiegoSi06829718" target="blank"><img align="center" src=".github/twitter.svg" alt="NyctibiusVII/Twitter" height="20" width="20" /></a>
-    <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/" target="blank"><img align="center" src=".github/linkedin.svg" alt="NyctibiusVII/Linkedin" height="20" width="20" /></a>
-    <a href="https://www.instagram.com/DcDevs/" target="blank"><img align="center" src=".github/instagram.svg" alt="NyctibiusVII/Instagram" height="20" width="20" /></a>
-    <a href="https://discord.gg/!D❦C•Devs" target="blank"><img align="center" src=".github/discord.svg" alt="NyctibiusVII/Discord" height="20" width="20" /></a>
+<h3><strong>Languages and Tools</strong></h3>
+<p align="ledt">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
