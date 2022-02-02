@@ -13,9 +13,9 @@
 <br>
 <h3><strong>About Me</strong></h3>
 
-<li><b>[👾] • Fullstack web programmer, focused on backend</b></li>
-<li><b>[🤖] • I'm currently studying javascript and combining my basic knowledge.</b></li>
-<li><b>[👨‍🎓] • Studying systems analysis and development</b></li>
+<li><b>[👾] • Fullstack web programmer, focused on backend.</b></li>
+<li><b>[🤖] • I'm currently studying javascript and aligning my basic knowledge.</b></li>
+<li><b>[👨‍🎓] • Studying systems analysis and development.</b></li>
 
 <!-- TECNOLOGIAS -->
 
