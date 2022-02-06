@@ -7,7 +7,7 @@
   <a href="https://open.spotify.com/user/r1hx6sxhndssvnj4fuwszw5v5"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
-<img src="image/gg.gif" width="410" margin="0" align="right" alt="tamplateImg"/>
+<img src="puddle_jumper_octodex" width="410" margin="0" align="right" alt="tamplateImg"/>
 
 <br>
 <br>
