@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Diego Silva, <image src="image/wave.gif" width="29"> welcome to my perfil!<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"></h2>
+<h2 align="center">Hi, I'm Diego Silva, <image src="image/wave.gif" width="29"> welcome to my perfil! <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' align="botton" width="35"></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
