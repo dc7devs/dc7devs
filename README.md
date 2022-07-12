@@ -8,9 +8,10 @@
 
 <h3><strong>About Me</strong></h3>
 
-<li><b>[👾] • Fullstack web programmer, trying to stay focused on the backend.</b></li>
-<li><b>[🤖] • I'm currently studying javascript and aligning my basic knowledge.</b></li>
+<li><b>[👾] • Programmer, interested in technology and how it works</b></li>
+<li><b>[🤖] • I am currently studying and aligning my basic knowledge in Javascript, C/C++ and Python.</b></li>
 <li><b>[👨‍🎓] • Studying systems analysis and development in IFTM (Instituto Federal do Triangulo Mineiro)</b></li>
+<li><b>[🎲] • Interest in data science, machine learning and AI</b></li>
 
 <!-- TECNOLOGIAS -->
 
