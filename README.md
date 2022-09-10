@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/687863744541491294"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/r1hx6sxhndssvnj4fuwszw5v5"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCQCBtV_fonx-JZj-OnIFcSw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
 
 <h3><strong>About Me</strong></h3>
