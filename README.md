@@ -1,11 +1,17 @@
 <h2 align="center">Hi, I'm Diego Silva, <image src="image/wave.gif" width="29"> welcome to my profile! <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' align="botton" width="35"></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/687863744541491294"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/r1hx6sxhndssvnj4fuwszw5v5"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCQCBtV_fonx-JZj-OnIFcSw">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/687863744541491294" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/r1hx6sxhndssvnj4fuwszw5v5" target="_blank">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCQCBtV_fonx-JZj-OnIFcSw" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
