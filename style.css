@@ -1,0 +1,28 @@
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+h5 div {
+    display: flex;
+    align-items: center;
+    background: #616161;
+    padding: 2px 7px 2px 5px;
+    border-radius: 5px;
+    backdrop-filter: saturate(50%) blur(8px);
+}
+
+h5 div:hover {
+    opacity: .02px;
+}
+
+h5 div img {
+    margin-right: 5px;
+}
+
+h5 div .image {
+    text-decoration: none;
+    color: #fff9;
+}
