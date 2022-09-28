@@ -6,37 +6,44 @@
   <!-- <link rel="stylesheet" href="style.css"> -->
 </head>
 
-<h4 align="center">
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/book-open.svg" name="me-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">me</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/laptop.svg" name="blog" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">blog</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/briefcase-light.svg" name="project-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">projects</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/twitter-logo.svg" name="twitter-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">twitter</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/linkedin-logo.svg" name="Linkedin-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">Linkeding</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/discord-logo-light.svg" name="discord-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">discord</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/instagram-logo.svg" name="instagram-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">instagram</a>
-  </div>&nbsp;&nbsp;&nbsp;
-  <div style="display: inline;font-family: 'Montserrat', sans-serif;">
-      <img src="./image/icons/youtube-logo.svg" name="youtube-icon" width="18" style="vertical-align: text-top;">&nbsp;
-      <a href="#" class="image">youtube</a>
-  </div>
+<h4 align="center" style="font-family: 'Montserrat', sans-serif;align-items: end">
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/book-open.svg" name="me-icon" width="13">
+      me
+    </a>&nbsp; <!-- vertical-align: middle; -->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/laptop.svg" name="blog" width="13">
+      blog
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/briefcase-light.svg" name="project-icon" width="13">
+      projects
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/twitter-logo.svg" name="twitter-icon" width="13">
+      twitter
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/linkedin-logo.svg" name="Linkedin-icon" width="13">
+      Linkeding
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/discord-logo-light.svg" name="discord-icon" width="13">
+      discord
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/instagram-logo.svg" name="instagram-icon" width="13">
+      instagram
+    </a>&nbsp; <!--vertical-align: middle;-->
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+      <img src="./image/icons/youtube-logo-bold.svg" name="youtube-icon" width="13">
+      youtube
+    </a>&nbsp; <!--vertical-align: middle;-->
 </h4>
