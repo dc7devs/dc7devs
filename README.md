@@ -43,7 +43,7 @@
     </a>&nbsp; <!--vertical-align: middle;-->
     &nbsp;&nbsp;&nbsp;
     <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
-      <img src="./image/icons/youtube-logo-bold.svg" name="youtube-icon" width="13">
+      <img src="./image/icons/youtube-logo.svg" name="youtube-icon" width="13">
       youtube
     </a>&nbsp; <!--vertical-align: middle;-->
 </h4>
