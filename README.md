@@ -27,12 +27,12 @@
       twitter
     </a>&nbsp; <!--vertical-align: middle;-->
     &nbsp;
-    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+    <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
       <img src="./image/icons/linkedin-logo.svg" name="Linkedin-icon" width="13">
       Linkeding
     </a>&nbsp; <!--vertical-align: middle;-->
     &nbsp;
-    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+    <a href="https://discord.com/users/687863744541491294" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
       <img src="./image/icons/discord-logo-light.svg" name="discord-icon" width="13">
       discord
     </a>&nbsp; <!--vertical-align: middle;-->
@@ -42,7 +42,7 @@
       instagram
     </a>&nbsp; <!--vertical-align: middle;-->
     &nbsp;
-    <a href="#" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
+    <a href="https://www.youtube.com/@devprogspeed2157" class="image" style="height: auto;height: auto;color: #fff9;align-items: start;">
       <img src="./image/icons/youtube-logo.svg" name="youtube-icon" width="13">
       youtube
     </a>&nbsp; <!--vertical-align: middle;-->
