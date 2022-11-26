@@ -32,7 +32,7 @@
       Linkeding
     </a>&nbsp;
     &nbsp;
-    <a href="https://discord.com/users/687863744541491294" target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
+    <a href="https://discord.com/users/687863744541491294"  target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
       <img src="./image/icons/discord-logo-light.svg" name="discord-icon" width="13">
       discord
     </a>&nbsp;
