@@ -7,17 +7,17 @@
 </head>
 
 <h4 align="center" style="font-family: 'Montserrat', sans-serif;align-items: end">
-    <a href="#" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
+    <a href="https://dcdevs-me.vercel.app/about" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
       <img src="./image/icons/book-open.svg" name="me-icon" width="13">
       me
     </a>&nbsp;
     &nbsp;
-    <a href="#" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start; vertical-align: middle;">
+    <a href="https://dcdevs-me.vercel.app/blog" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start; vertical-align: middle;">
       <img src="./image/icons/laptop.svg" name="blog" width="13">
       blog
     </a>&nbsp;
     &nbsp;
-    <a href="#" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
+    <a href="https://dcdevs-me.vercel.app/projects" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
       <img src="./image/icons/briefcase-light.svg" name="project-icon" width="13">
       projects
     </a>&nbsp;
