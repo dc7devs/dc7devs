@@ -47,3 +47,5 @@
       youtube
     </a>&nbsp;
 </h4>
+
+<img src="./image/banner.gif" align="right" alt="tamplateImg"/>
