@@ -7,24 +7,14 @@
 </head>
 
 <h4 align="center" style="font-family: 'Montserrat', sans-serif;align-items: end">
-    <a href="https://dcdevs-me.vercel.app/about" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
+    <a href="https://dcdev.me/" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
       <img src="./image/icons/book-open.svg" name="me-icon" width="13">
       me
     </a>&nbsp;
     &nbsp;
-    <a href="https://dcdevs-me.vercel.app/blog" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start; vertical-align: middle;">
+    <a href="https://dcdev.me/studying/notes" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start; vertical-align: middle;">
       <img src="./image/icons/laptop.svg" name="blog" width="13">
-      blog
-    </a>&nbsp;
-    &nbsp;
-    <a href="https://dcdevs-me.vercel.app/projects" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
-      <img src="./image/icons/briefcase-light.svg" name="project-icon" width="13">
-      projects
-    </a>&nbsp;
-    &nbsp;
-    <a href="#" class="image" target="_blank" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
-      <img src="./image/icons/twitter-logo.svg" name="twitter-icon" width="13">
-      twitter
+      notes
     </a>&nbsp;
     &nbsp;
     <a href="https://www.linkedin.com/in/diego-c-silva-487b171a5/" target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
@@ -35,11 +25,6 @@
     <a href="https://discord.com/users/687863744541491294"  target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
       <img src="./image/icons/discord-logo-light.svg" name="discord-icon" width="13">
       discord
-    </a>&nbsp;
-    &nbsp;
-    <a href="#" target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
-      <img src="./image/icons/instagram-logo.svg" name="instagram-icon" width="13">
-      instagram
     </a>&nbsp;
     &nbsp;
     <a href="https://www.youtube.com/@devprogspeed2157" target="_blank" class="image" style="height: auto;color: #fff9;align-items: start;vertical-align: middle;">
